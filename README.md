@@ -6,7 +6,7 @@
 
 - [Google BigQuery](https://cloud.google.com/bigquery/) : Google Cloud의 Data Warehouse and Anlysis tool
 - [Jupyter Notebook](https://jupyter.org) : Python을 사용하는 Jupyter Notebook
-- Machine Learning & Deep Learning : 알고리즘에 대하 이해, 착한 마음씨, 고등학교 이과 졸업자 등
+- Machine Learning & Deep Learning : 알고리즘에 대한 이해, 착한 마음씨, 고등학교 이과 졸업자 등
 
 
 
