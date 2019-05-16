@@ -6,7 +6,7 @@
 
 트랙명: Machine Learning : 엔드게임, BigQuery  
 
-발표자: 김하제 (Solutions Architect)
+발표자: [김하제](haje@g.skku.edu) (Solutions Architect)
 
 
 
