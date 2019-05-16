@@ -16,6 +16,8 @@
 - **BigQuery ML Tutorial 02** : 농구 게임 스코어 예측하기
 - **BigQuery ML Tutorial 03** : 출생 체중 예측하기
 
+
+
 ## 사용 기술
 
 - [Google BigQuery](https://cloud.google.com/bigquery/) : Google Cloud의 Data Warehouse and Anlysis tool
