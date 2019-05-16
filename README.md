@@ -2,6 +2,12 @@
 
 2019 구글 빅데이터 쇼케이스에서 발표한 "Machine Learning : 엔드게임, BigQuery의 진화"의 자료를 등록하였습니다.
 
+## Jupyter 설명
+
+- **BigQuery ML Tutorial 01** : Google Analytics 데이터를 활용하여 웹사이트 방문자 거래 예측하기
+- **BigQuery ML Tutorial 02** : 농구 게임 스코어 예측하기
+- **BigQuery ML Tutorial 03** : 출생 체중 예측하기
+
 ## 사용 기술
 
 - [Google BigQuery](https://cloud.google.com/bigquery/) : Google Cloud의 Data Warehouse and Anlysis tool
@@ -10,6 +16,6 @@
 
 
 
-## 참고문서
+## 참고 문서
 [Getting started with BigQuery ML using Cloud Datalab](https://cloud.google.com/bigquery-ml/docs/bigqueryml-notebook-start)  
 [Using BigQuery ML to predict basketball outcomes](https://cloud.google.com/bigquery-ml/docs/bigqueryml-ncaa)
