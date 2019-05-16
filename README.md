@@ -1,8 +1,16 @@
 # 2019 Google Bigdata Showcase in Seoul
 
-2019 구글 빅데이터 쇼케이스에서 발표한 "Machine Learning : 엔드게임, BigQuery의 진화"의 자료를 등록하였습니다.
+구글 빅데이터 쇼케이스에서 발표 자료 안내
 
-## Jupyter 설명
+날짜 : 2019년 5월 23일  
+
+트랙명: Machine Learning : 엔드게임, BigQuery  
+
+발표자: 김하제 (Solutions Architect)
+
+
+
+### Jupyter 설명
 
 - **BigQuery ML Tutorial 01** : Google Analytics 데이터를 활용하여 웹사이트 방문자 거래 예측하기
 - **BigQuery ML Tutorial 02** : 농구 게임 스코어 예측하기
