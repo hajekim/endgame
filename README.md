@@ -10,11 +10,14 @@
 
 
 
-### Jupyter 설명
+### Tutorial 설명
 
-- **BigQuery ML Tutorial 01** : Google Analytics 데이터를 활용하여 웹사이트 방문자 거래 예측하기
-- **BigQuery ML Tutorial 02** : 농구 게임 스코어 예측하기
-- **BigQuery ML Tutorial 03** : 출생 체중 예측하기
+- **Tutorial 01** : Google Analytics 데이터를 활용하여 웹사이트 방문자 거래 예측하기
+  - Logistic Regression 사용 (Binary)
+- **Tutorial 02** : 농구 게임 스코어 예측하기
+  - Linear Regression 사용
+- **Tutorial 03** : 출생 체중 예측하기
+  - Linear Regression 사용
 
 
 
@@ -29,3 +32,11 @@
 ## 참고 문서
 [Getting started with BigQuery ML using Cloud Datalab](https://cloud.google.com/bigquery-ml/docs/bigqueryml-notebook-start)  
 [Using BigQuery ML to predict basketball outcomes](https://cloud.google.com/bigquery-ml/docs/bigqueryml-ncaa)
+
+[Google BigQuery ML tutorials](https://cloud.google.com/bigquery-ml/docs/tutorials)
+
+[BigQuery ML - Machine Learning using SQL in BigQuery](https://www.youtube.com/watch?v=BanOYQVl30I)
+
+[How to Do Predictive Analytics in BigQuery (Cloud Next ’18)](https://www.youtube.com/watch?v=Ml2aCTn7kFY)
+
+[What's New with BigQuery ML and Using it to Assess Data Quality (Cloud Next '19)](https://www.youtube.com/watch?v=DnlG4frLKmw)
