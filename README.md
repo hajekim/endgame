@@ -41,7 +41,23 @@
 
 
 
-##### 발표자 정보 : [김하제](www.linkedin.com/in/hajekim![고유 URL 수정](https://static.licdn.com/sc/h/3ka78g15bj1f1eiogq7mc39fb))
+## 발표자 소개
+
+### [김하제](www.linkedin.com/in/hajekim)
+
+- **2017 - Present | Solutions Architect**
+  - Google Cloud Platform, Amazon Web Services 아키텍쳐 및 구축
+  - Open Source 엔지니어링
+  - ETL & Data Warehousing 엔지니어링
+- **2013 - 2017 | Software Engineer**
+  - Oracle Middleware 구축 및 기술 지원
+    - Oracle WebLogic Server
+    - Oracle iPlanet WebServer (SunOne WebServer)
+    - Oracle HTTP Server
+    - Oracle Coherence
+    - Oracle Application Server
+  - 다봄소프트 EnPharos 구축
+    - APM(Application performance Management) Solution
 
 - **2017 - Present | Solutions Architect**
   - Google Cloud Platform, Amazon Web Services 아키텍쳐 및 구축
@@ -59,7 +75,7 @@
 
 
 
-## 참고 문서
+## 참고 문서 및 영상
 [Getting started with BigQuery ML using Cloud Datalab](https://cloud.google.com/bigquery-ml/docs/bigqueryml-notebook-start)  
 [Using BigQuery ML to predict basketball outcomes](https://cloud.google.com/bigquery-ml/docs/bigqueryml-ncaa)
 
