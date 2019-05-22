@@ -70,7 +70,7 @@
     - Oracle HTTP Server
     - Oracle Coherence
     - Oracle Application Server
-  - 다봄소프트 EnPharos 구축
+  - 다봄소프트 EnPharos 구축 지원
     - APM(Application performance Management) Solution
 
 
