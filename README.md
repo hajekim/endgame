@@ -1,8 +1,6 @@
 # Machine Learning : 엔드게임, BigQuery의 진화
 
-본 문서는 삼성동 구글 캠퍼스 서울에서 실시한 빅데이터 쇼케이스 시즌8 (Google Big Data Showcase Season 8) 발표에 시연한 Tutorial Jupyter Notebook에 대해서 서술되어 있습니다.
-
-[Google Big data Showcase season 8](https://www.campus.co/seoul/ko/events/ag1zfmd3ZWItY2FtcHVzckgLEgpDYW1wdXNOYW1lIgRSb290DAsSCkNhbXB1c05hbWUiBXNlb3VsDAsSB0V2ZW50VjIiEmEyaDNhMDAwMDAwQTFCYkFBSww#events)
+본 문서는 삼성동 구글 캠퍼스 서울에서 실시한 [구글 빅데이터 쇼케이스 시즌8 (Google Big data Showcase season 8)]((https://www.campus.co/seoul/ko/events/ag1zfmd3ZWItY2FtcHVzckgLEgpDYW1wdXNOYW1lIgRSb290DAsSCkNhbXB1c05hbWUiBXNlb3VsDAsSB0V2ZW50VjIiEmEyaDNhMDAwMDAwQTFCYkFBSww#events)) 발표에 시연한 Tutorial Jupyter Notebook에 대해서 서술되어 있습니다.
 
 Google Cloud의 국내 최초 프리미어 파트너인 클라우드/오픈소스 전문 기업 락플레이스가 개최하는 'Google Big data Showcase' 시리즈는 Cloud 또는 Big data를 도입, 활용하려는 기업이나 스타트업을 대상으로 Big data 및 Machine Learning에 대한 주요 트렌드 및 이슈, 최신 기술 등을 소개하고 직접 시연하며 Google Cloud의 도입 및 활용을 위한 최적의 솔루션을 제시합니다.  
 
