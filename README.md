@@ -62,13 +62,10 @@
 
 
 ## 참고 문서 및 영상
-[Getting started with BigQuery ML using Cloud Datalab](https://cloud.google.com/bigquery-ml/docs/bigqueryml-notebook-start)  
-[Using BigQuery ML to predict basketball outcomes](https://cloud.google.com/bigquery-ml/docs/bigqueryml-ncaa)
+- [Getting started with BigQuery ML using Cloud Datalab](https://cloud.google.com/bigquery-ml/docs/bigqueryml-notebook-start)
+- [Using BigQuery ML to predict basketball outcomes](https://cloud.google.com/bigquery-ml/docs/bigqueryml-ncaa)
+- [Google BigQuery ML tutorials](https://cloud.google.com/bigquery-ml/docs/tutorials)
+- [BigQuery ML - Machine Learning using SQL in BigQuery](https://www.youtube.com/watch?v=BanOYQVl30I)
+- [How to Do Predictive Analytics in BigQuery (Cloud Next ’18)](https://www.youtube.com/watch?v=Ml2aCTn7kFY)
+- [What's New with BigQuery ML and Using it to Assess Data Quality (Cloud Next '19)](https://www.youtube.com/watch?v=DnlG4frLKmw)
 
-[Google BigQuery ML tutorials](https://cloud.google.com/bigquery-ml/docs/tutorials)
-
-[BigQuery ML - Machine Learning using SQL in BigQuery](https://www.youtube.com/watch?v=BanOYQVl30I)
-
-[How to Do Predictive Analytics in BigQuery (Cloud Next ’18)](https://www.youtube.com/watch?v=Ml2aCTn7kFY)
-
-[What's New with BigQuery ML and Using it to Assess Data Quality (Cloud Next '19)](https://www.youtube.com/watch?v=DnlG4frLKmw)
