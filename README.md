@@ -59,20 +59,6 @@
   - 다봄소프트 EnPharos 구축
     - APM(Application performance Management) Solution
 
-- **2017 - Present | Solutions Architect**
-  - Google Cloud Platform, Amazon Web Services 아키텍쳐 및 구축
-  - Open Source 엔지니어링
-  - ETL & Data Warehousing 엔지니어링
-- **2013 - 2017 | Software Engineer**
-  - Oracle Middleware 구축 및 기술 지원
-    - Oracle WebLogic Server
-    - Oracle iPlanet WebServer (SunOne WebServer)
-    - Oracle HTTP Server
-    - Oracle Coherence
-    - Oracle Application Server
-  - 다봄소프트 EnPharos 구축 지원
-    - APM(Application performance Management) Solution
-
 
 
 ## 참고 문서 및 영상
