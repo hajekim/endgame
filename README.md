@@ -43,7 +43,7 @@
 
 ## 발표자 소개
 
-### [김하제](www.linkedin.com/in/hajekim)
+### [김하제](http://www.linkedin.com/in/hajekim)
 
 - **2017 - Present | Solutions Architect**
   - Google Cloud Platform, Amazon Web Services 아키텍쳐 및 구축
