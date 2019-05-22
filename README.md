@@ -25,7 +25,7 @@
 
 ## 사용 모델
 
-- [선형 회귀 (Linear Regression)](https://developers.google.com/machine-learning/crash-course/descending-into-ml/linear-regression?hl=ko) : 종속 변수 y와 한 개 이상의 독립 변수 x와의 선형 상관 관계를 모델링하는 회귀 분석 기법 (출처: [위키피디아 선형 회귀](https://ko.wikipedia.org/wiki/%EC%84%A0%ED%98%95_%ED%9A%8C%EA%B7%80](https://ko.wikipedia.org/wiki/선형_회귀)) )
+- [선형 회귀 (Linear Regression)](https://developers.google.com/machine-learning/crash-course/descending-into-ml/linear-regression?hl=ko) : 종속 변수 y와 한 개 이상의 독립 변수 x와의 선형 상관 관계를 모델링하는 회귀 분석 기법 (출처: [위키피디아 선형 회귀](https://ko.wikipedia.org/wiki/%EC%84%A0%ED%98%95_%ED%9A%8C%EA%B7%80) )
 - [로지스틱 회귀(Logistic Regression)](https://developers.google.com/machine-learning/crash-course/logistic-regression/calculating-a-probability?hl=ko) : 분류 문제에서 선형 예측에 Sigmoid 함수를 적용하여 가능한 각 불연속 라벨값에 대한 확률을 생성하는 모델 (출처: [구글 머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko))
 
 
