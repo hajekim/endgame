@@ -6,8 +6,6 @@
 
 발표 장소: [구글 캠퍼스 서울](https://www.campus.co/seoul/ko/)
 
-발표자: [김하제](haje@g.skku.edu) (Solutions Architect)
-
 
 
 ## 사용 솔루션
@@ -40,6 +38,24 @@
   - 모델 : Linear Regression 사용
 - **[튜토리얼 03](https://github.com/hajekim/endgame/blob/master/bqml-tutorial-03.ipynb)** : 출생 체중 예측하기
   - 모델 : Linear Regression 사용
+
+
+
+##### 발표자 정보 : [김하제](www.linkedin.com/in/hajekim![고유 URL 수정](https://static.licdn.com/sc/h/3ka78g15bj1f1eiogq7mc39fb))
+
+- **2017 - Present | Solutions Architect**
+  - Google Cloud Platform, Amazon Web Services 아키텍쳐 및 구축
+  - Open Source 엔지니어링
+  - ETL & Data Warehousing 엔지니어링
+- **2013 - 2017 | Software Engineer**
+  - Oracle Middleware 구축 및 기술 지원
+    - Oracle WebLogic Server
+    - Oracle iPlanet WebServer (SunOne WebServer)
+    - Oracle HTTP Server
+    - Oracle Coherence
+    - Oracle Application Server
+  - 다봄소프트 EnPharos 구축
+    - APM(Application performance Management) Solution
 
 
 
