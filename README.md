@@ -2,7 +2,7 @@
 
 본 문서는 삼성동 구글 캠퍼스 서울에서 실시한 [구글 빅데이터 쇼케이스 시즌8 (Google Big data Showcase season 8)]((https://www.campus.co/seoul/ko/events/ag1zfmd3ZWItY2FtcHVzckgLEgpDYW1wdXNOYW1lIgRSb290DAsSCkNhbXB1c05hbWUiBXNlb3VsDAsSB0V2ZW50VjIiEmEyaDNhMDAwMDAwQTFCYkFBSww#events)) 발표에 시연한 Tutorial Jupyter Notebook에 대해서 서술되어 있습니다.
 
-발표 시간 : 2019년 5월 23일 오후 1:30 ~ 6:00  
+발표 시간 : 2019년 5월 23일 오후 2:50 ~ 3:30  
 
 발표 장소: [구글 캠퍼스 서울](https://www.campus.co/seoul/ko/)
 
