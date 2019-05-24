@@ -18,7 +18,8 @@
 ## 준비 사항
 
 - Machine Learning & Deep Learning 관련 지식
-- 고등학교 이과 졸업 유리 (문송하게도 저는 문과-경영학과 테크트리입니다 ㅠㅠ)
+- 고등학교 이과 졸업 유리
+  - 문송하게도 저는 문과입니다...
 - **착한 마음씨**
 
 
@@ -79,4 +80,3 @@
     - [다봄소프트 EnPharos Java]([http://www.dabomsoft.com/wordpress/enpharos-java/](http://www.dabomsoft.com/wordpress/enpharos-java/))
 
     
-
