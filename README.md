@@ -18,7 +18,7 @@
 ## 준비 사항
 
 - Machine Learning & Deep Learning 관련 지식
-- 고등학교 이과 졸업 유리
+- 고등학교 이과 졸업 유리 (문송하게도 저는 문과-경영학과 테크트리입니다 ㅠㅠ)
 - **착한 마음씨**
 
 
@@ -34,30 +34,13 @@
 
 - **[튜토리얼 01](https://github.com/hajekim/endgame/blob/master/bqml-tutorial-01.ipynb)** : Google Analytics 데이터를 활용하여 웹사이트 방문자 거래 예측하기
   - 모델 : Binary Logistic Regression 사용
+  - [데이터 과학자용 BigQuery ML 시작하기](https://cloud.google.com/bigquery/docs/bigqueryml-scientist-start?hl=ko)
 - **[튜토리얼 02](https://github.com/hajekim/endgame/blob/master/bqml-tutorial-02.ipynb)** : 농구 게임 스코어 예측하기
   - 모델 : Linear Regression 사용
+  - [BigQuery ML을 사용하여 농구 결과 예측](https://cloud.google.com/bigquery/docs/bigqueryml-ncaa?hl=ko)
 - **[튜토리얼 03](https://github.com/hajekim/endgame/blob/master/bqml-tutorial-03.ipynb)** : 출생 체중 예측하기
   - 모델 : Linear Regression 사용
-
-
-
-## 발표자 소개
-
-### [김하제](http://www.linkedin.com/in/hajekim)
-
-- **2017 - Present | Solutions Architect**
-  - Google Cloud Platform, Amazon Web Services 아키텍쳐 및 구축
-  - Open Source 엔지니어링
-  - ETL & Data Warehousing 엔지니어링
-- **2013 - 2017 | Software Engineer**
-  - Oracle Middleware 구축 및 기술 지원
-    - Oracle WebLogic Server
-    - Oracle iPlanet WebServer (SunOne WebServer)
-    - Oracle HTTP Server
-    - Oracle Coherence
-    - Oracle Application Server
-  - 다봄소프트 EnPharos 구축
-    - APM(Application performance Management) Solution
+  - [BigQuery ML을 사용하여 출생 시 체중 예측](https://cloud.google.com/bigquery/docs/bigqueryml-natality?hl=ko)
 
 
 
@@ -68,4 +51,32 @@
 - [BigQuery ML - Machine Learning using SQL in BigQuery](https://www.youtube.com/watch?v=BanOYQVl30I)
 - [How to Do Predictive Analytics in BigQuery (Cloud Next ’18)](https://www.youtube.com/watch?v=Ml2aCTn7kFY)
 - [What's New with BigQuery ML and Using it to Assess Data Quality (Cloud Next '19)](https://www.youtube.com/watch?v=DnlG4frLKmw)
+
+
+
+### 제 소개
+
+##### [김하제](http://www.linkedin.com/in/hajekim)
+
+- **2017 - Present | Solutions Architect | 락플레이스**
+
+  - [Google Cloud Platform](https://cloud.google.com/), [Amazon Web Services](https://aws.amazon.com/ko/) 아키텍쳐 및 구축
+  - DevOps, CI/CD, Open Source 엔지니어링
+  - ETL & Data Warehousing 엔지니어링
+
+- **2013 - 2017 | Software Engineer | 유클릭**
+
+  - Oracle Middleware 구축 및 기술 지원
+
+    - [Oracle WebLogic Server](https://www.oracle.com/kr/middleware/weblogic/)
+    - [Oracle iPlanet WebServer (SunOne WebServer)](https://en.wikipedia.org/wiki/Oracle_iPlanet_Web_Server)
+    - [Oracle HTTP Server](https://www.oracle.com/technetwork/articles/index-091236.html)
+    - [Oracle Coherence](https://www.oracle.com/kr/middleware/coherence/)
+    - [Oracle Application Server](https://en.wikipedia.org/wiki/Oracle_Application_Server)
+
+  - APM(Application performance Management) 구축 및 기술 지원
+
+    - [다봄소프트 EnPharos Java]([http://www.dabomsoft.com/wordpress/enpharos-java/](http://www.dabomsoft.com/wordpress/enpharos-java/))
+
+    
 
