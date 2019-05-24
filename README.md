@@ -59,7 +59,7 @@
 
 #### [김하제](http://www.linkedin.com/in/hajekim)
 
-궁금하신 사항은 haje@g.skku.edu 부담 없이 메일 주세요.
+궁금하신 사항은 hajekim1@gmail.com 부담 없이 메일 주세요.
 
 - **2017 - Present | Solutions Architect | 락플레이스**
 
